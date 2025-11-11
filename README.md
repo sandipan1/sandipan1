@@ -7,13 +7,14 @@ I am an independent AI Consultant. I work on AI systems and data infrastructure.
 - Experimenting with evaluation frameworks for agentic workflows
 - Exploring event driven Agent development
 - Experimenting with Secure MCP in Agent workflows
+- Data Pipelines for Agentic systems
 
 
-** If you are working in any these, would love to connect. ** 
+**If you are working in any these, would love to connect.** 
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/sandipan-haldar/  
-Website: https://www.sandipanhaldar.com/
+Website: https://www.sandipanhaldar.com/ <br>
 Email : work@sandipanhaldar.com
 
 
