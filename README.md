@@ -2,7 +2,7 @@
 
 <!--
 **sandipan1/sandipan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 
 I am an independent AI Consultant. I work on AI systems and data infrastructure. My focus right now is building reliable LLM applications with good retrieval, evaluation loops, and production patterns.
@@ -20,4 +20,4 @@ I am an independent AI Consultant. I work on AI systems and data infrastructure.
 LinkedIn: https://www.linkedin.com/in/sandipan-haldar/  
 Website: https://www.sandipanhaldar.com/
 
-
+-->
